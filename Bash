@@ -1,0 +1,4 @@
+git mv app.js.js app.js
+git mv style.css.css style.css
+git commit -m "Rename files to correct extensions"
+git push
